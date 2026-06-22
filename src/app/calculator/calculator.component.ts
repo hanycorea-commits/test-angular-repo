@@ -76,3 +76,4 @@ export class CalculatorComponent implements OnInit {
   }
 
 }
+ 
